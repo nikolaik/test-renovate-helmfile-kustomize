@@ -1,0 +1,7 @@
+version: 0.150.0
+dependencies:
+- name: raw
+  repository: https://charts.helm.sh/incubator/
+  version: 0.1.0
+digest: sha256:b98ed1e300d81379f8e61c91f81aa2c55b8af621fd8f849d6b1de13135e31938
+generated: "2023-03-13T12:24:14.392443+01:00"
