@@ -6,7 +6,7 @@ releases:
     chart: ./chart
   - name: raw1
     chart: incubator/raw
-    version: 0.1.0
+    version: 0.2.5
     values:
       - resources:
           - apiVersion: v1
